@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "plugin.test.capacitor.5"
+    namespace "plugin.test.capacitor.v5"
     compileSdkVersion rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "plugin.test.capacitor.5"
+        applicationId "plugin.test.capacitor.v5"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -1,4 +1,4 @@
-package plugin.test.capacitor.5;
+package plugin.test.capacitor.v5;
 
 import com.getcapacitor.BridgeActivity;
 
