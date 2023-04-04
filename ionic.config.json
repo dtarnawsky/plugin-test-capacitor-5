@@ -1,0 +1,7 @@
+{
+  "name": "plugin-test-capacitor-5",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
