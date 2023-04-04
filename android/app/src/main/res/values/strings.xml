@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">plugin-test-capacitor-5</string>
-    <string name="title_activity_main">plugin-test-capacitor-5</string>
+    <string name="app_name">plugin-test-capacitor-v5</string>
+    <string name="title_activity_main">plugin-test-capacitor-v5</string>
     <string name="package_name">plugin.test.capacitor.5</string>
     <string name="custom_url_scheme">plugin.test.capacitor.5</string>
 </resources>
